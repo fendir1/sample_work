@@ -1,2 +1,2 @@
-log.txt
-dir_to_ignore/.ipynb_checkpoints
+log.txt/
+.ipynb_checkpoints/
