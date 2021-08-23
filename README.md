@@ -1,1 +1,2 @@
 # sample_work
+this is a project that has a lot of data modification/cleaning and a very brief model on predicting whether member of the given sample does or doesn't have the flu vaccine based on demographic (mostly) data.
